@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CabriniApp", "CabriniApp.csproj", "{998BEFE2-68A4-F4CB-D182-FFB6B1BEEBAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{998BEFE2-68A4-F4CB-D182-FFB6B1BEEBAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{998BEFE2-68A4-F4CB-D182-FFB6B1BEEBAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{998BEFE2-68A4-F4CB-D182-FFB6B1BEEBAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{998BEFE2-68A4-F4CB-D182-FFB6B1BEEBAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

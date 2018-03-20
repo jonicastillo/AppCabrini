@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/SSN/B.unity
+- path: Assets/scn/App.unity
   isLoaded: 1
   isActive: 1
